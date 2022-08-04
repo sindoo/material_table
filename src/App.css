@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.deactive {
+  background-color: red;
+  width: fit-content;
+  padding: 0 5px;
+  border-radius: 3px;
+}
+.active {
+  background-color: greenyellow;
+  width: fit-content;
+  padding: 0 5px;
+  border-radius: 4px;
+}
+
