@@ -12,6 +12,7 @@ const empStatus = [
     { id: 0, title:'Deactive' },
     { id: 1, title: 'Active' }
 ]
+
 const empRole = [
     { id: 0, title:'Associate' },
     { id: 1, title:'Senior Associate' },

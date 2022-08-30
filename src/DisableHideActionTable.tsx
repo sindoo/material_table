@@ -41,7 +41,7 @@ export const DisableHideActionTable = () => {
                     actionsColumnIndex:-1,
                     addRowPosition: 'first'
                 }}
-                />
+            />
         </div>
     )
 
